@@ -1,5 +1,5 @@
 # Acepta-el-reto
-Ejercicios de Acepta el reto
+Ejercicios de Acepta el reto<br>
 Ejercicios resueltos:
 
 | Ej 114 | [Tensión Descompensada](https://github.com/insonyy/Acepta-el-reto/blob/e0a68ab382c96be7acf848901e16361bf59d5f3b/ejercicios/Ej114.java) |
