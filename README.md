@@ -8,3 +8,4 @@ Ejercicios resueltos:
 | Ej 116 | [¡Hola Mundo!](https://github.com/insonyy/Acepta-el-reto/blob/75267c96a4dc022ac30b1554daf84b181b91c7ad/ejercicios/Ej116.java) |
 | Ej 615 | [La pulga](https://github.com/insonyy/Acepta-el-reto/blob/64b67fcf757de131e9a0667c9cb0a14c535d7b37/ejercicios/Ej615.java) |
 | Ej 616 | [Pic, poc, pic, ¡pong!](https://github.com/insonyy/Acepta-el-reto/blob/7c67dcb6af3a17a336d8f2a95d569906c807f72e/ejercicios/Ej616.java) |
+| Ej 617 | [Mensajes en Space Invaders](https://github.com/insonyy/Acepta-el-reto/blob/cb17816e036a2ea5ebc9f46aebb5f595520ba1f3/ejercicios/Ej617.java) |
